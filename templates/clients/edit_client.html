@@ -1,0 +1,17 @@
+{% extends 'index.html' %}
+
+{% block main %}
+    <div class="main__central_form">
+        <form class="forms__form" method="post">
+            <h2 class="form__title">Реєстрування предмету</h2>
+            {% csrf_token %}
+            {% for form_field in form %}
+                <div class="form__field">
+                    {{ form_field.errors }}
+                    {{ form_field.label_tag }} {{ form_field }}
+                </div>
+            {% endfor %}
+            <input type="submit" value="Оновити">
+        </form>
+    </div>
+{% endblock %}

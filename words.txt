@@ -1,0 +1,1207 @@
+Navigational Computor, Mark III D*, Ref No. 6B/180
+Acorn NetStation Proton Xavier
+Bull DPX/2
+Cirrus Logic 'Maverik' Development System
+Allwell Set Top Box STB1030
+HP Visualize 8160L
+Prototype / Homebrew 6809 Computer with Acorn System 1 Keyboard
+Interton Electronic PIC 9000
+Kalamazoo K1100N
+NMW Computer System
+uWink Touchscreen Game Kiosk
+Norsk Data
+Verse The LCD Notebook
+Robot Research Model 800 Keyboard Terminal
+ROCC Teleputer
+Sony Vaio PCV-6603 All-in-one PC
+Steve Furber '2650' Prototype
+Sun Microsystems Cluster
+Trivector Triton 3
+Wang WLTC 615-2275
+Philips ProLearn AT
+STC TX3000S Series
+Vtech I.T. Laptop
+Mark XIV Bomb Sight
+54363 Mercury delay line tube, short
+Cossor Data Processor
+EDSAC II
+Leo II Valve Rack
+Ferranti Atlas Computer
+Leo III Logic Board
+Minivac 601
+DigiComp
+Ferranti Argus 100
+Elliott 903
+Ferranti FM1600 B
+55625 Program Wiring Subset Unit from LEO III
+BCL Susie
+Lan-Alog Type LA-4
+Philips P354 Visible Records Computer
+BCL Susie V
+Digital Micro PDP-11/23
+Digital PDP-11/03-L
+IBM System 370 Control Panel
+Digital PDP-8/E
+Digital PDP-11/20
+IBM 129 Key Punch
+BCL Molecular 18
+Digico Micro 16V
+HP 9830A
+Ferranti 1600E
+Ferranti Argus 700
+GEC 4000 Computer
+Intellec 8
+ICL Terminal 2255/1
+Marconi Locus 16
+Marconi Quest-CAE
+SWTPC 6800
+SWTPC 6800 (2)
+Texas Instruments TI-990 Computer System
+MITS Altair 8800
+MITS Altair 8800b
+IMSAI 8080
+GEC 4080 Computer
+Heathkit ET-3400 Trainer
+Intel desktop unit
+Intel SDK 85 - System Design Kit
+Intercept Jr Tutorial System
+SC/MP Development System
+Rockwell AIM 65 Computer
+Rockwell AIM-65 computer (Grey Case)
+S-100 Computer (1)
+Sharp CS-1151 Compet
+Tandy TV Scoreboard
+IBM 370/138
+Digital PDP-11/04 BD
+Commodore PET 3016
+Digital PDP-11/60 System
+Mitac LIC-2001A Little Intelligent Computer - Apple II Clone
+Nascom 2
+TRS-80 Microcomputer System Model I (26-1003)
+Prototype of MK14
+Science of Cambridge MK 14 - Original Kit
+Science of Cambridge MK 14 + Original Keyboard
+Science of Cambridge MK14
+Science of Cambridge MK14 + Memory Expansion in wooden case
+Apple II
+Commodore PET 2001
+Commodore PET 2001 (Blue Label)
+MITS Altair 8800b Turnkey
+NorthStar Horizon
+Apple II Europlus
+Apple II Plus
+Casio FX-502P
+Digital PDP-11/34
+Digital PDP-11/35 System
+Exidy Sorcerer II
+Hitachi MB-6880-8 Basic Master
+Challenger 1P Computer
+Perkin Elmer 550 Terminal
+Cosmac Super Elf
+TRS-80 Microcomputer System Model I (26-1004)
+RM 380Z (Black Case)
+RM 380Z (Light Blue Case)
+RM 380Z (with Colour Card)
+SBC-100 - S-100 Single Board Computer
+Space Invaders Arcade Cabinet
+Texas Instruments TM 990 / U89
+Transam Triton (2)
+Zilog Z-80 Microcomputer System
+Nascom 1
+Commodore PET 2001-32N
+ITT Director Programmable Controller
+Ohio Superboard II Model 610
+Transam Triton
+Acorn 6502 Microcomputer Board
+abc-24
+Asteroids Arcade Cabinet
+Commodore PET 3032
+Commodore PET CBM 3008
+Compukit UK101
+Compukit UK101 (2)
+Cromemco System Three
+HP 5036A Microprocessor Lab
+Superbrain
+Superbrain
+Ithaca Intersystems DPS-1
+ITT 2020 Computer - Apple II Clone
+Sanco Memory 7000
+Metier Artemis
+NEC PC-8001 BE
+Olivetti BCS 3030
+TRS-80 Microcomputer System Model II
+Sharp MZ-80K
+Tangerine Microtan 65
+Texas Instruments - TI-99/4
+Intel Intellec MDS-800 Development System
+TRS-80 Microcomputer System Model I (26-1104)
+Acorn System 1
+Acorn System 1
+Acorn System 1 (Chris Turner)
+Atari 400
+Atari 400 with Aftermarket Keyboard
+Atari 800
+Nascom 2 (3)
+Nascom 2 (4)
+Basic Computer Technology Course
+Acorn Atom (Blue Box)
+Acorn Atom (White Box)
+Acorn System 3
+Altos Model 5-15ED
+Centipede Arcade Cabinet
+British Antarctic Survey 'Micro'
+British Antarctic Survey 'Micro' (caseless)
+Commodore Pet 8032-32B
+Commodore PET 8032SK
+ACT Series 800 / Computhink Minimax II
+EG3003 Video Genie System
+EG3008 Genie II Microcomputer System
+Vydec 1800 Series Word Processor
+Hewlett Packard HP-85
+HP 9845B
+IBM Displaywriter
+Microwriter MW4
+Sharp Elsimate EL-210 (type II)
+Sharp PC-1211
+Sinclair ZX80 8K Basic
+Sinclair ZX80 Prototype PDZ 4732 Basic ROM - Nine Tiles
+Sinclair ZX80 Updated to ZX81
+Sinclair ZX81 with Basic EPROM
+Sord M23 Mark III
+TRS-80 Color Computer
+Transam Tuscan S100
+Black Acorn Atom
+Philips P2000T
+Commodore PET 4008
+Commodore Pet 4032-32N
+Commodore VIC-1001
+Apple III
+Transam Tuscan S100
+Sinclair ZX80
+TRS-80 Microcomputer System Model III (26-1062)
+TRS-80 Microcomputer System Model III (26-1063)
+TRS-80 Microcomputer System Model III - David Jones's Machine
+Ohio Superboard II Model 610 (Wooden Case)
+Acorn BBC Micro Model A
+Acorn BBC Micro Model A - Issue 1
+Acorn BBC Micro Model A (Issue 2 Board)
+Commodore PET 8096SK
+Commodore SuperPet (SP9000)
+Commodore VC-20
+Commodore VIC-20
+Dataman Designs Menta
+Elonex XT Clone Board
+Grundy NewBrain AD system with 'oil rig' and disk expansion.
+HP 9826A
+HP1000 F Series - System A
+HP1000 F Series - System B
+IBM 5150 with CGA Monitor
+IBM 5161
+ICL PERQ 1 Workstation
+ICL Personal Computer Model 30 8120/05
+ICL Personal Computer Model 30 8120/11
+NEC PC-6001
+ZX16K ROM Board
+Olivetti ETS 2010 with ET 115 Typewriter
+Open University Hektor I
+Open University Hektor I
+Osborne 1
+Sharp MZ-80B
+Sinclair ZX Spectrum Prototype
+Sinclair ZX81
+Sinclair ZX81 Kit
+ACT Sirius 1
+Steve Furber 'Computer Group' Prototype
+Technomatic Multiform Z80 2nd processor
+Xerox Diablo 3100
+Acorn BBC Micro Model B
+Acorn BBC Micro Model B Hong Kong
+RM LINK 480Z
+HP 9826
+Sinclair ZX81 - Signed by Rick Dickinson
+Sinclair ZX81 with Custom Case/Keyboard
+Texas Instruments - TI-99/4A
+IBM 5150
+Epson HX-20
+NEC 8801 BE
+A-1 101 Apple II Clone - Apple II Clone
+German BBC Micro (GNB09)
+Acorn System 4
+Busicomputers Prophet 3
+abc-26
+Atari 1200XL
+British Micro Mimi 802
+Canon AS-100
+Cifer 1887-G Black computer system
+Cifer 1887-G Red computer system
+Cifer 2634 Computer
+Commodore MAX
+Commodore P500
+CUBE EuroBEEB
+Digital Professional 350-D
+DEC Rainbow
+DEC Rainbow 100+
+DECmate II
+Digital Systems DMS 3
+Epson Executive HX-20
+GRiD Compass II 1129
+Grundy NewBrain AD
+Grundy NewBrain AD (Transparent Case)
+Hawk 1010
+Superbrain II JR
+Superbrain II QD
+Superbrain II QD
+Juko Electronics Super Turbo ST Mainboard
+Sinclair ZX81 with Unbranded Case
+Microbee Premium Plus
+Micro Decision
+Motorola Exorset 30 Model M6809 Set 30
+Motorola 8220 Computer
+Motorola Exorset 30 Model 6809 T33
+MC68000 Educational Computer Board
+Micro-Professor MPF-IP
+NorthStar Advantage
+NorthStar Advantage
+Olivetti Quaderno
+Open University Hektor II
+Open University Hektor III
+Osborne 01
+RM Link 480Z in Metal Case
+Sage II (Converted to a Model IV)
+Sage II
+Sanyo MBC-2000
+Sanyo MBC-4050
+Sanyo MBC-555
+Sharp PC-1500
+Sharp MZ-80A
+Sharp PC-1251
+Sharp X1 CZ-800C
+Argentinian Sinclair Spectrum
+Early Sinclair ZX Spectrum Computer
+Sinclair Spectrum with Homemade Keyboard
+Sinclair ZX Spectrum Console
+Sinclair ZX Spectrum Console
+Timex Sinclair 1000
+Timex Sinclair 1500
+White Replica ZX Spectrum (Millionth Edition)
+ZX Spectrum Issue 2 With ULA Modification
+Sirius 457
+Sirius Model 457
+Sirius Model 506
+Sirius Model 510
+Victor 9000
+CGL Sord M5
+Sord M5
+Sirius Model 504
+Sirius Model 511
+Victor Vi
+Xerox 820-II
+Zenith Z-100
+EG2000 Colour Genie
+Newbrain Model MD
+Texas Instruments TM 990 / 189
+VC4404 Terminal
+Kaypro II
+Sinclair ZX Spectrum 48K (BBC)
+Sinclair ZX Spectrum Case (Signed)
+Olivetti M20 D
+Prologica CP-500 Microcomputer
+Sinclair ZX Spectrum 16K
+Sinclair ZX Spectrum 48k
+Sinclair ZX Spectrum Computer - Early Issue
+Microwriter MW4
+British Telecom Small Business Computer Type A/1A/2B
+Commodore 64
+Dragon 32
+Dragon 32 (Chess Box)
+Dragon 32 (House Box)
+Jupiter Ace
+Jupiter Ace
+Jupiter Ace
+Epson HX-20 with Hard Case
+Powertran Cortex
+Cat Computer Prototype
+Acorn Business Computer (ABC)
+Acorn Cambridge Workstation
+Busicomputers Prophet 2
+Acorn Business Computer (ABC) (Prototype)
+Acorn System 5
+Adam Colecovision Family Computer System
+AES 7100 PC Model 203
+Apricot XI
+Apricot XI Prototype
+Atari 800XL
+Bentley Compu-Vision
+Burroughs B25
+Burroughs B95C Computer
+Casio MSX Personal Computer MX-10 Type B
+Casio PV-7 (Red)
+Columbia 1600 VP
+Commodore Pet 8296-D
+Commodore SX-64 (110v US)
+Commodore SX-64 (240V UK)
+Comx PC1
+Convergent Technologies AWS NGEN Workstation
+Corvus Systems WSB-1 Workstation
+CW/P Cortex
+Digital Microsystems DMS816
+Epcot Electronics - Apple II Clone
+Epson QX-10
+Galaxy 1
+Enigma - Galaxy 2 Computer
+Guan Haur KHP-4006A - Apple II Clone
+HP 9836
+HP 150B
+HH Tiger
+ICL DRS8801
+ICL PERQ 2 T1 Workstation
+Intel MDS 80 - Microcomputer Development System
+Jupiter Ace in replacement Camputers Lynx Case
+Alice 90
+Matra Alice
+Memotech MTX500
+Memotech MTX512
+Samurai Micronetworks KDS 7861
+Microworld Microbee Model II
+Mitsubishi ML-F80 MSX computer
+NEC PC-8201
+NEC PC-8201A
+Olivetti M21
+Olivetti M24
+Olympia People
+Panasonic MSX CF-2700
+Philips P2000C
+Philips P2000C -P2012
+Philips P2000C-1
+Philips PCL 300
+Philips VG-8020
+Portico Miracle
+TRS-80 MC-10 Micro Color Computer
+TRS-80 Colour Computer 2
+Sage IV (Enclosed Model)
+Sage IV (Open Model)
+Sega SC-3000
+Sinclair Spectrum (Assembled in Portugal)
+Symbolics 3620
+Tandy TRS-80 Model 4 P
+Tandy TRS-80 Model IV
+Tandy 102 Portable Computer
+TRS-80 Model 100 Portable Computer
+TRS-80 Model 102 Portable Computer
+Torch Hard Disc Computer
+Toshiba HX-10
+Toshiba HX-10 Kit
+Matmos PC
+Microframe 12
+Xerox 820 16/8 Personal Computer
+Apple IIe
+Apple Lisa
+Philips P5004
+IBM 5160 XT
+Olivetti M10
+Oric 1 16k
+Oric 1 16k
+Sharp MZ-711
+Sharp MZ-721
+Oric 1 48k
+TeleVideo TS 803 Computer System
+Kokusai KDS 7861
+Camputers Lynx 48
+Camputers Lynx 48 (Upgraded to 96K)
+TeleVideo TS 1603 Computer System
+Acorn Electron (Trial ROM From Astec)
+Atari 600XL
+Spectravideo SVI-328 Mk II
+Mattel Aquarius
+Acorn Electron
+Acorn Electron (Box with Tile Design)
+Acorn Electron (German)
+Acorn Electron with Turbo Board
+Acorn Electron (Production Mock Up)
+Acorn Electron (Trial ROM)
+Bandai RX-78 Gundam
+Dragon 64
+Camputers Lynx 128
+Camputers Lynx 96
+Sharp MZ-5600
+NEC APC Advanced Personal Computer
+Convergent Technologies Workslate
+Ferranti Argus PPC-20
+Philips P5020
+Timex Sinclair 2068
+Visual Commuter
+Vtech Laser Color Computer 200
+IBM PC Jr 4860-067
+Ferranti Advance 86
+Microscribe
+Microscribe - Dumb Terminal
+Microscribe - Link
+Prototype Microscribe Text Editor
+Acorn BBC Micro Model B+ 64K (Acorn R&D)
+BBC Micro B+ 128K + 48K ROM
+Apricot PC
+Amstrad CPC 464
+Apricot F1
+Apricot PC XI
+Burroughs B26 Computer
+Cifer 2887-Y Black computer system
+Comus Instruments Daisy
+Czerweny CZ 1500
+Czerweny CZ Spectrum
+Data General Eclipse S 200
+Data General One - DG1
+DECMate III
+Elektronika BK 0010-01
+Epson PX-8
+HP 110
+HP 64000 (64100A)
+HP Portable Plus
+IBM 5170 / PC AT
+ICL NB386S
+SC84
+Linotype-Paul - APL 100/200 - Apple II Clone
+Micro-Professor EPB-MPF-1B
+Olivetti M290
+Osborne 5 (Prototype)
+Polo System 1
+Tandy 1000 Professional computer
+RM Nimbus Domesday System
+RM Nimbus PC TN (Early model)
+ROCC Server
+Sanyo MBC-1150
+Sanyo MPC-100
+Seiko MP-220 Pocket Computer
+Investronica Sinclair Spectrum
+Sinclair QL
+Sinclair QL (German)
+Sinclair QL (Property of Sinclair)
+Sinclair QL (Signed)
+Sinclair QL (US)
+Sinclair QL + Schön Keyboard
+STC 3910 Executel
+STC 3911 Executel
+Tatung TPC-2000
+Tatung TVT6600A Terminal
+Telsoft Epson PX-8 Computer + Epson P80-X Printer in Samsonite Case
+Torch Model No. 301
+Alphatronic PC
+Victor Vicki
+Wang PC-S3-3
+Wren Executive System
+Yamaha CX5M Music Computer
+Goldstar FC-200 MSX
+Logica VTS 2200
+Logica VTS 2200
+Sanyo MBC-550
+Sharp PC-1246
+Tatung Einstein TC-01
+Tatung Einstein TC-01 in Potterton Case
+Tatung Einstein TC-01 with original packaging
+Tatung VT-4100 Terminal
+Apple Macintosh M0001 128K upgraded to 512K
+Oric Atmos
+Apple IIc
+Canon V-20 MSX
+Toshiba MSX HX-10
+Amstrad CPC 464 PPC MP1 Boxed System
+Apricot Point 7
+Commodore 116
+Commodore 16
+Commodore Plus 4
+IBM 5155 Portable Computer
+ICL Personal Computer Model 36 - 8122/20
+Sinclair ZX Spectrum+
+Sony HB-75B - HitBit
+Compaq Deskpro Model 1
+Apple Macintosh 128K
+US BBC Micro (UNB09)
+National CF2700 MSX
+Sharp MZ-800
+Apple Macintosh 512k
+Apricot Portable
+Apricot Chameleon
+Apricot F10
+Apricot F2
+Atari 520 STFM
+Atari 520ST (boxed) + External hard drive + software
+Atari 65XE
+Bondwell Model 8
+De Grafe Silver UC/F
+Dell 286
+Dell 320LX
+Dell 325n/325NC
+Epson PX-4
+Ericsson Portable PC
+BT Merlin Tonto
+ICL OPD
+ICL OPD (Boxed)
+ICL Perq 3A
+JVC MSX HC-7 GB
+Victor MSX HC-30
+LSI Octopus Computer
+TK90X Color Computer
+Microwriter (case only)
+MicroProfessor MPF-1/88
+NEC PC-9801 VM
+NEC Starlet PC8401-A-LS
+Acorn BBC B Plus Oak Personal Computer
+Pioneer Palcom PX-7(BK)
+PBS Executive IV
+RM Nimbus PC (Later Beige Model)
+RM Nimbus PC-186
+RM Nimbus PC-186 - Diskless
+Sanyo PHC-33
+SCL Unicorn Microcomputer Mainboard
+Sony HB-G900P MSX2 system
+Tatung Einstein 256
+Thorn EMI Liberator
+Torch Triple X
+Torch Triple X with Monitor, Keyboard and Mouse
+Torch TX
+Yamaha CX5MII 128
+Commodore 128
+Atari 520 STM
+Enterprise 128 - One Two Eight
+Logica VTS 2300 (Kennet)
+Olivetti M-15 Plus
+DEC Microvax 2
+General Automation Zebra 1750
+Zenith ZFL-171-42 Portable
+Acorn BBC Micro Model B+ (128K)
+Acorn BBC Micro Model B+ (64K)
+Amstrad CPC 6128
+Commodore Amiga 1000
+Altos 986-40E
+Amstrad PCW 8256
+Apricot XEN
+Apricot XEN (FD/HD?)
+Sperry 3126-00 PC
+Amstrad PCW 8512
+Commodore 128D
+CEC-I China Education Computer
+Acorn BBC Master 512
+Acorn Communicator
+Acorn Communicator Italian
+BBC Master Used on Microlive
+Acorn BBC Domesday System
+Acorn Econet Terminal
+Amstrad PC1512 DD
+Amstrad PC1640 DD
+Amstrad PC1640 HD20
+Atari 1040 STE
+Control Universal EuroBeeb
+Ferranti Model No PC31
+Hitachi MB-H50
+LTM Portable
+RM Nimbus AX/2
+RM Nimbus VX/2
+Sega MegaTech Arcade Cabinet
+Sharp PC-1403
+Sinclair ZX Spectrum +2
+Thomson M06
+Toshiba T3100
+Sinclair ZX Spectrum 128
+Philips NMS 8245 MSX2
+Apple Macintosh Plus
+Apple Macintosh Plus 1MB
+Acorn BBC Master 128
+Compaq Portable II
+RS STE PA Processor A Single-Board Computer
+IBM 5140 Convertible Computer
+Data General Model 2
+Acorn - BT Merlin M2105
+Epson HC-20 (HX-21-UA)
+Tandy Color Computer 3 (CoCo 3)
+Acorn BBC Master Compact
+Acorn BBC Master Compact Prototype
+Atari 520 STM
+Apple II GS
+Apple II GS 'Woz' edition
+Apple II GS for Greengate DS:4
+Tandy 1000 EX Personal Computer
+Acorn Archimedes 305
+Acorn Archimedes 310
+Acorn Archimedes 310 (Arthur 1.2 Installed)
+Acorn Archimedes A410/1
+Acorn AEH02 Archimedes NSM
+Amstrad PCW 9512
+Amstrad PCW 9512
+Amstrad PCW 9512+
+Sinclair ZX Spectrum +2A
+Sinclair ZX Spectrum +2A (Portuguese)
+Sinclair ZX Spectrum +2A Action Pack
+Atari Mega ST 2
+Cambridge Z88
+Commodore Amiga A2000
+Commodore Amiga A500
+Commodore Amiga A500 Class of the 90s Pack
+Commodore PC-I
+Compaq DeskPro 286 Model No: 2551
+Compaq Portable III
+Digital Micro PDP-11/53
+Digital MicroVAX 3100
+Dolch 286-Pack Portable Computer
+IBM PS/2 Model 50
+IBM PS/2 Model 70
+INMOS B008 Transputer Evaluation Board Rev E
+Linus Write Top Peripheral I
+Linus Write-Top
+NEC Mini 5 HA
+NEC PC-8300
+NEC PowerMate Portable Plus
+Olivetti Prodest PC 128S
+Robotron KC 87
+Alien Syndrome Arcade Cabinet
+Sharp PC-1360
+Sharp PC-7200
+Cambridge Z88 All In One Pack
+Tandy 1000 HX Personal Computer
+Tandy 1400 Professional Computer LT
+Toshiba T1000
+Toshiba T1200
+Toshiba T3100/20
+Toshiba T3200
+Toshiba T3200 SXC
+Wyse WY-120 Terminal
+Zenith Laptop Computer ZWL-183-92
+Zenith ZFL-181-93 Laptop
+Apple IIe Platinum
+Apple Macintosh II
+Apple Macintosh SE
+Apple Macintosh SE/30 (Douglas Adams)
+Commodore 64 C
+Commodore 64 C German
+Commodore 64 C Hollywood Presents Pack
+Commodore 64 C Terminator 2 Pack
+Sharp X68000
+Commodore Amiga A500 Plus
+IBM PS/2 Model 30 (Dual FD)
+IBM PS/2 Model 30 (FD/HD)
+IBM PS/2 Model 30 286
+IBM PS/2 Model 80 (8580-071)
+Sinclair ZX Spectrum +3
+Sinclair ZX Spectrum +3 (Currys Box)
+Acorn Archimedes 440
+Compaq Portable 386
+IBM PS/2 Model 55SX
+Sharp X1 Twin CZ-830C
+Acorn A500
+Acorn A680
+Acorn Archimedes A500
+Amstrad ALT-386SX Laptop Computer
+Amstrad PC1640 HD30
+Amstrad PC2086 S
+Amstrad PC2086/30
+Amstrad PPC 512D
+Amstrad PPC 640D
+Spanish Amstrad CPC 464 (Schneider Keys & Cassette Deck)
+Apricot XEN-i 386/45
+Atari ST Mega 1040 Tower Power
+British Telecom M5210 Series PC
+Cambridge Z88 in prototype Optimus Case
+Canon A-200 III HD20
+Compaq DeskPro 386S/20N
+Dell 316SX
+Videoshow Professional
+GR Electronics Oyster 80/165 computer
+HasselBlad Dixel 2000
+ICL DRS M15
+ICL DRS M45
+Kvantor Spectrum Clone
+NEC PowerMate Portable SX (APC-H7020X)
+NCD 88K
+Olivetti M380/C (Pandora Project)
+Olivetti PC1 Prodest
+Olivetti Prodest PC1 HD
+Cambridge Z88 With PC Link Kit
+Sinclair PC200
+Sun 386i
+Tadpole TP-32 68030 VME Single Board Computer
+Toshiba T3100e (1)
+Toshiba T3100e (2)
+Tulip PC Compact 2
+Zenith TurboSport 386
+NeXT Cube N1000
+Mitsubishi MP 286L
+Acorn A3000
+Sinclair ZX Spectrum +2B
+Apple Macintosh SE/30
+Atari 1040STF
+Atari 1040STFM
+Atari 1040STFM (David Arnold)
+Atari 520 STE
+Atari Portfolio
+Casio FX-82C
+Halikan LA-30A Laptop computer
+Commodore 64 G
+Compaq Deskpro 386/25 Type 38
+Compaq Portable LT/286
+JAMMA Secret Agent Arcade PCB
+Digital MicroVAX 3100-80
+DIP Pocket PC Professional
+Dolch PAC 486
+Elonex LT-320X
+Epson Equity LT
+Epson Equity LT with soft case
+Epson PC-Portable Q150A
+Goupil Golf 286-10-HD40
+GRidPad 1910
+Radio-86RK (Russia)
+Microwriter AgendA 128K
+Olivetti M290S
+Poqet PC ('Prime' Model)
+Tandy Portable Wordprocessor WP-2
+RM Nimbus PC-286 (CD-ROM Server)
+RM Nimbus PC-286 (With High Res graphics)
+RM Nimbus PC-386 (High Res Graphics Version)
+Sun SPARCstation 1 (Sun 4/60)
+Sun SPARCstation 1+
+Sun 3/80
+Sun 3/80
+LT/286 Laptop
+Torch Quad X
+Zenith MinisPort Laptop
+Zenith Supersport
+Zenith Supersport SX
+Commodore 64 C Light Fantastic Pack
+Apple Macintosh IIcx
+Sun SPARCstation 1
+InterMedia
+Acorn A3000 (Learning Curve Box)
+Acorn Archimedes A440/1
+Acorn Archimedes A440/1 Serial No. 1000001
+Acorn A3000 Laservision System
+Acorn A3000 (Original Spec)
+Acorn R140
+Psion Mobile Computer MC 400
+Apple Macintosh Portable
+Apple Macintosh IIci
+Amstrad PC2286/40
+Tandy 1100FD Laptop Computer
+HP Vectra 05/20
+Sam Coupe
+Atari Stacy 2
+Acorn R260
+Amstrad ALT-286 Laptop Computer
+Amstrad CPC 464 Plus
+Amstrad CPC 6128 Plus
+Amstrad PCW 9256
+AST Ascentia P Series Notebook
+Atari Falcon
+Atari Mega 4
+Atari TT030
+Commodore Amiga 1500
+Commodore C286-LT Portable
+Compaq Portable SLT/286 2680
+Compaq SLT 386s/20
+Didaktik M - V.D.Skalica Typ U9334
+Epson PC Club PC-286C
+Evans & Sutherland Computer
+Fujitsu Oasys 30 LX II Word Processor
+IBM PS/1
+IBM RS/6000 Model 550L
+NeXTstation N1100
+Eureka A4 Braille Computer and Personal Organiser
+Sony PalmTop PTC-500
+Sun Microsystems SPARCstation 2
+Sun SPARCstation IPC
+Toshiba 4700CT
+IBM Model 8573-121
+IBM RS/6000 320
+NeXTstation N1100 (2)
+Apple Macintosh IIfx
+Apple Macintosh Classic
+Apple Macintosh IIsi
+Apple Macintosh LC
+Acorn A5000 ALB22
+Acorn A5000 ALB35
+Acorn A5000 ALB55
+Acorn Archimedes A5000 ALB12
+Active Book
+Amstrad ACL-386SX120 Laptop
+Amstrad PC4386SX Computer
+AST 386SX/20 notebook
+Atari Mega/STE
+Commodore C386SX-LT
+FM Towns 2DF
+IBM PS/2 Model 95 (8595)
+IBM PS/2 Note
+Mitac 3025F Laptop
+Olivetti D33
+Olivetti PCS 286S
+SGI Indigo
+Signal Sintez 2
+Sun SPARCStation IPX
+Toshiba T3300SL/80
+Acorn A4000
+Higrade HIG-286-20
+RM Nimbus NB300
+RM Nimbus NB300
+RM Nimbus NB400
+Toshiba T5200/100
+Amstrad ANB-386SX40
+Acorn A4 Laptop
+Acorn A4 Laptop (Prototype 1 of 7)
+Apple Macintosh Performa 400
+Apple Macintosh PowerBook 145
+Apple Macintosh PowerBook 100
+Canon NoteJet BN120C Laptop
+Commodore Amiga A600HD
+Compaq Concerto 2840A
+The Fox MT-80Z
+ES COM Blackmate 386SXL IV Notebook
+Evesham Vale PC Computer
+HP APOLLO 710 WORKSTATION - A1991A
+IBM PS/1 Pro - Model 2123
+IBM PS/2 Multimedia Model 75 (M75) 486SLC2
+Mitac 1600A Palmtop PC
+Propellerpowered Pocket Mini Computer
+Samsung PenMaster Tablet
+Samsung Q1 Ultra
+Tidalwave PS-1000 Palmtop
+Toshiba T2000SX
+Toshiba T2200SX
+Toshiba T4400SX Notebook
+Vtech 386SX.33
+Zenith MasterSport 386SL
+Zenith MasterSport 386SLe
+Acorn A3020
+Apricot NT 386SX-25
+Zenith MasterSport 386SX
+Apple Mac LCII
+Commodore Amiga A600
+Sun SPARCstation 10
+Apple Macintosh Quadra 950
+Acorn A3010
+Acorn A4000
+Semerc Acorn A4000S
+Apple Macintosh IIvi
+Apple Macintosh Performa 200
+Apple Macintosh PowerBook 160
+Apple Macintosh Powerbook Duo 230
+Commodore Amiga 4000
+Apple Macintosh PowerBook 180
+Commodore Amiga 1200
+Commodore Amiga 1200
+Sun SPARCclassic
+Sun SPARCstation LX
+Byte ZX Spectrum Clone
+Amstrad 7286 HD40
+Amstrad Mega PC 386SX
+Compaq Contura Aero 4/33C
+Compaq Prolinea 4/25S
+HP OmniBook 300
+IBM RISC System/6000 250
+IBM ThinkPad 2523-710T
+RM Nimbus PC-486/66
+RM PC-5200 Accelerator
+SGI Indigo 2
+SGI Indigo 2 Impact
+SGI Indigo 2 xZ
+Tadpole SPARCbook 2
+Toshiba T1900C
+Toshiba T6600C
+Apple Mac LCIII
+Apple Macintosh Colour Classic
+Apple Macintosh PowerBook 165C
+Compaq Portable Computer
+Olivetti EO Personal Communicator 440
+Apple Macintosh PowerBook 180C
+Apple Macintosh PowerBook 145B
+SGI Indy
+Commodore Amiga CD32
+Digital DEC 3000/600
+Apple Macintosh LC475
+Apple Macintosh Quadra 650
+Compaq Plus Portable
+Apple Macintosh Performa 450
+Acorn Risc PC 600 Prototype Motherboard
+Compaq Contura 2820D
+Compaq LTE Elite 4/40CX
+Compaq LTE Elite 4/75CX
+DECpc 425SE Laptop
+Digital Hi Note CT475
+NEC Versa S/33 Laptop
+OREL BK-08 - Ukraine Spectrum Clone
+Sony Magic Link PIC-1000
+Sun SPARCstation 20
+Sun SPARCserver 20
+IBM POWERportable N40
+Tadpole SPARCbook 3
+Tadpole SPARCbook 3GX
+Tadpole SPARCbook 3LC
+Tadpole Thor
+Lightwriter SL35/Cherry
+Apple Power Macintosh 7100/66
+Texas Instruments TravelMate 4000E
+IBM RS/6000 N40
+Acorn Risc PC 600
+Acorn Risc PC 600 ACB25
+Acorn Risc PC 600 ACB45
+Apple Macintosh PowerBook 520C
+Apple Macintosh PowerBook 540C
+AST Ascentia 800N 486 notebook
+Apple Macintosh Performa 630
+Apple Macintosh PowerBook 150
+IBM Aptiva
+Digital DEC Multia (Alpha Generation)
+Acorn A7000
+Acorn A7000+
+Acorn RISC PC 600 - Prototype
+Acorn SchoolServer
+Apple Macintosh Performa 5300
+Apple Macintosh PowerBook 1400c
+Apple Macintosh PowerBook 5300cs
+Apple Power Macintosh 7500/100
+Apricot XEN-PC
+Apricot XEN-PCm
+Cogent Computer Systems CMA102 Development System
+Compaq Contura 400
+Compaq LTE 5280
+European Data Systems LX1
+LX1 Liaison Wotan
+IBM ThinkPad 701CS
+CF-41 Personal Computer
+Philips CD-i 21TCDI30
+Sharp Font Writer FW-560 UM
+Sun Ultra 1
+Sun Ultra 1 Creator
+Tadpole P1000 Prototype
+Tadpole P1000G
+Tadpole Sun Clone
+Torch Graduate
+Toshiba Satellite S320CDT 4.0GB
+Toshiba T2100
+Viglen Dossier 486 SD
+Viglen PC
+Sun SPARCstation 5
+Apple Power Macintosh 6100/60
+IBM ThinkPad 755CEX
+ICL Fujitsu PCTV
+Apple Macintosh Performa 5200CD
+Acorn Risc PC 600 ACB60
+Acorn RISC PC700 System
+Apple Power Macintosh 7200/90
+Compaq Contura 420C
+Acorn StrongARM RiscPC
+Acorn Xemplar Matrix NC
+Acorn Fast NC - Serial Number 1
+Acorn Stork Notebook
+Apple eMate 300 Prototype designated A2015
+Compaq Presario 4122
+DEC Prototype Set Top Box
+Digital PC 425SL/e
+Ericsson MC12
+HP OmniBook 800CT
+IBM RS/6000 SP2 Type 7025
+IBM ThinkPad 365XD
+NTS DreamWriter 200
+Philips in2It
+SGI Challenge 10000
+SGI O2
+SGI Origin 200
+SGI Origin 2000
+Sharp Font Writer FW-760 UM
+Sun JavaStation-1
+Sun Ultra 2
+Tadpole Alphabook 1
+Tiny 620 HF
+Toshiba Satellite Pro 420 CDS/810
+Toshiba Tecra 730CDT
+Toshiba Tecra 730CDTZ-1EB
+Umax Pulsar
+Apple Macintosh Performa 5400/180
+Toshiba Libretto 100CT
+Toshiba Libretto 110CT
+Toshiba Libretto 50CT
+US Robotics Pilot 5000
+Toshiba Satellite 110CS/810
+Apple Macintosh Performa 6400/200
+Acorn NetStation NC
+Acorn NChannel NetStation
+Teknema Internet Screenphone
+Umax APUS 2000 Computer - 603e / 160
+Apple Macintosh Twentieth Anniversary Edition
+Compaq Armada 4120
+Compaq Armada 4160T
+Compaq Armada 7750MT Laptop
+Digital Personal Workstation 433au
+Franklin RexPro PC-Card Organizer
+HP OmniBook 5700 CT
+HP 360LX
+IBM Personal Computer 730 - P75
+Quince BBC Master Computer
+SGI Octane
+Toshiba Portégé 300CT
+Toshiba Satellite S4000CDS/4.0
+Apple Macintosh Powerbook 3400c/200
+Apple Power Macintosh 5500/225
+PalmPilot Professional
+Apple eMate
+Philips Velo 1
+Compaq Presario 3060
+Sun Ultra 60
+Sun Ultra 5
+Palm IIIc
+Acorn Phoebe
+Cobalt RaQ
+Corel Netwinder Development Machine DM
+Digital AlphaServer A4100
+Fujitsu Point 510
+HP 620LX Palmtop PC
+HP 9000 800/ F20
+HP Jornada 820
+IBM RS/6000 Model 7043 604e
+Matsucom OnHand PC
+Opti Talisman
+Siemens Simatic 505 PLC
+RiscStation R7500 motherboard.
+Sony Vaio PCG-FX201
+Sun Microsystems Enterprise 250
+Tadpole Voyager IIi
+Teknema Internet Set-Top Box
+Toshiba Tecra 8000
+Vtech I.T. Unlimited
+Voyager 2000
+Acorn DeskLite Prototype
+Apple iMac G3 (Slot Loading, Indigo)
+Apple iMac G3 (Slot Loading, Tangerine)
+Apple iMac G3 (Tray Loading, Bondi Blue)
+Apple iMac G3 (Tray Loading, Lime)
+Apple iMac G3 (Tray Loading, Strawberry)
+Apple iMac G3 DV (Slot Loading)
+IBM Aptiva 2176
+Philips Nino 300 Series
+Compaq Aero 1520 Palm-size PC
+Palm IIIx
+Palm V
+Boca STB121 TV Web Interface
+Compaq AlphaServer DS20
+Compaq Professional Workstation XP1000
+HP OmniBook XE2
+MicroDigital Mico 1 Computer
+Pace DSL4000 Set Top Box
+Philips Nino 200 Series
+Psion netBook
+Psion Series 7
+Sony Vaio PCG-C1F
+Sony Vaio PCG-FX109K
+Sun Microsystems Sun Ray 1 Thin Client
+Apple Power Macintosh G3 300
+Apple Macintosh PowerBook G3
+Apple Macintosh PowerBook G3/400
+Apple iBook G3/300 (Green)
+Apple iBook G3/300 (Orange)
+Apple iBook G3/366 (Grey)
+Apple Power Macintosh G4 400
+Handspring Visor Deluxe
+Palm Vx
+Apple iMac G3/350 (Slot Loading - Blueberry)
+Apple iMac G3/DV (Slot Loading - Dalmation)
+Apple iMac G3/DV (Slot Loading - Graphite)
+HP Jornada 548
+Ibycus
+Bush Internet TV IBX101
+Bush Internet TV IBX200
+Saintsong EPC-1 Mini PC
+SGI 540 Visual Workstation
+Sun Blade 2500
+Teleika PAL LanTV Prototype
+HP Jornada 720
+AlphaSmart 3000
+Toshiba Satellite Pro 4300 Series - SP4320
+SGI 320 Visual Workstation
+Compaq iPAQ 3630 Pocket PC
+Cybiko Xtreme
+Apple Power Macintosh G4 Cube (M7886)
+Cobalt Qube 2
+Palm m100
+IBM 8363 NetVisa Thin Client
+Apple iBook
+Apple iBook M6497
+Apple iMac G3 M5521 Indigo
+Compaq iPaq H3850
+IBM Thinkpad 2628-STG
+IBM ThinkPad R30 2656
+Oregon Scientific PD293 Organiser
+Bush Internet TV IBX202
+Pathfinder
+Sun Ultra 10 Creator 3D
+Apple iMac G3/500
+Palm m500
+Apple iMac G3 DV (Slot Loading Flower Power)
+HP Jornada 568
+Apple iMac G4
+Apple iMac G4
+Apple iMac G4 17
+Iyonix PC
+Dolch FieldPAC FPAC5-233-XG
+IBM ThinkPad T30
+Bush Internet TV IBX250
+RLX Technologies System 300ex
+Sony Vaio PCG-U1
+Apple iMac G4/800
+Apple eMac G4/1.0 (ATI)
+Hyper Street Fighter II Turbo Edition
+HP Compaq TC1100
+JVC Mobile Mini Note PC/MP-XP7210
+Eco2
+Beyond iCEBOX Countertop
+SMS - Primary Computer
+SGI Octane 2
+Sony CLIÉ PEG-SJ33/E
+Sony CLIÉ PEG-TJ27
+Apple Power Macintosh G4 1.42 DP (FW 800)
+Fujitsu Siemens Pocket LOOX 610
+Apple Power Macintosh G5
+SGI Origin 350
+Apple Macintosh PowerBook G4 17' Model A1052
+Apple iBook G4
+Rock D900T Notebook Computer
+OQO Model 01
+Sun Fire V100
+Sun Netra X1
+Apple iMac G5
+Advantage Six A9home
+IBM ThinkPad X41
+Sun Blade 1500
+Apple Mac Mini A1103
+iPod (5th Gen)
+Dell Axim X51
+Apple Macintosh PowerBook G4 Model A1106
+Sun Microsystems Sun Ray 2 Thin Client
+Apple Mac Mini A1176
+OLPC XO-1
+Wyse Winterm SX0 (model S30)
+Datawind Ubisurfer
+Elonex Artisan
+Toshiba Portege R500-10U
+CnMbook
+Elonex ONE+
+Acer Aspire One
+Amino AmiNET 103
+Sun Fire V490
+Kindle DX
+Amino Freedom
+Amino Freedom J5001
+Archos 7 Tablet
+Alienware M15x
+AJP Notebook
+NEC Life Touch Note Netbook
+BCM2763 Micro DB (Prototype Raspberry Pi)
+Colour Maximite
+Kano Computer Kit
+Pre-Release Raspberry Pi - Serial #7
+Raspberry Pi - Model A
+Blackberry PlayBook 64GB
+Samsung Chromebook XE303C12
+Raspberry Pi Google Kit
+RC2014 - Z80 Kit Computer
+Prototype PragmatIC Flexible Integrated Circuit
+The Recreated ZX Spectrum
+Raspberry Pi Zero (with MagPi magazine)
+The Megaprocessor
+Replica Apple 1
+Spectrum Next
+Raspberry Pi Pico (with HackSpace Magazine)
+CERBERUS 2080

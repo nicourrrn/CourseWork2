@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Branch №{{ branch.id }}</title>
+</head>
+<body>
+<h1>Гілка №<a href={% url 'branch' branch.id %}>{{ branch.id }}</a></h1>
+<h2>Адреса гілки: {{ branch.branch_address }}</h2>
+<p>Працює з <b>{{ branch.open_time }}</b> до <b>{{ branch.close_time }}</b></p>
+<h2>Предмети, що зберігаються на продаж: </h2>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Cost</th>
+        <th>Contract</th>
+    </tr>
+    {% for item in branch.item_set.all %}
+        <tr>
+            <td><a href={% url 'item' item.id %}>{{ item.id }}</a></td>
+            <td>{{ item.item_name }}</td>
+            <td>{{ item.cost }}</td>
+            {% if item.contract %}
+                <td><a href={% url 'contract' item.contract.id %}>{{ item.contract.id }}</a></td>
+            {% else %}
+                <td>-</td>
+            {% endif %}
+        </tr>
+    {% endfor %}
+</table>
+
+<h2>Працівники, що працюють на гілці</h2>
+<table>
+    <tr>
+        <th>Номер паспорта</th>
+        <th>ПІБ</th>
+        <th>Телефон</th>
+        <th>Посада</th>
+
+    </tr>
+    {% for worker in branch.worker_set.all %}
+    <tr>
+        <td><a href={% url 'worker' worker.id %}>{{ worker.passport_num }}</a></td>
+        <td>{{ worker }}</td>
+        <td>+{{ worker.phone }}</td>
+        <td>{{ worker.position }}</td>
+    </tr>
+    {% endfor %}
+
+</table>
+</body>
+</html>

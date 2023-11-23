@@ -1,0 +1,26 @@
+{% extends 'index.html' %}
+{% block main %}
+<aside class="main_aside">
+        <h2 class="aside__title">
+            Можливі дії
+        </h2>
+        <div class="aside__panel">
+            <ul class="panel__variants">
+                <li class="variants__point">Продивитися здані предмети</li>
+                <li class="variants__point"><a href="{% url 'search_' %}"></a></li>
+                <li class="variants__point"></li>
+            </ul>
+        </div>
+    </aside>
+    <div class="main__content">
+        <div class="content__info">
+            <p class="info__field">Надано документ: {{ user.document_type }}</p>
+            <p class="info__field">Номер вашого документа: {{ user.document_num }}</p>
+            <p class="info__field">Ваш ідентифікаційний код: {{ user.identification_code }}</p>
+            <p class="info__field"> Ваш телефон: +{{ user.phone }}</p>
+            <p class="info__field"> ПІБ: {{ user.first_name }} {{ user.last_name }} {{ user.by_father_name }}</p>
+            <p class="info__field"> Дата народження: {{ user.birthday }}</p>
+            <p class="info__field"> Пошта: {{ user.email }}</p>
+        </div>
+    </div>
+{% endblock %}

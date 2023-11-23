@@ -1,0 +1,44 @@
+{% extends "index.html" %}
+
+{% block main %}
+
+
+    <div class="search__forms">
+        <form class="forms__form" method="post">
+            <h2 class="form__title">Пошук серед клієнтів</h2>
+            {% csrf_token %}
+            {% for form_field in search_form %}
+                <div class="form__field">
+                    {{ form_field.errors }}
+                    {{ form_field.label_tag }} {{ form_field }}
+                </div>
+            {% endfor %}
+
+            <input type="submit" name="" value="Пошук">
+        </form>
+        <form class="forms__form" method="post">
+            <h2 class="form__title">Фільтрація серед клієнтів</h2>
+            {% csrf_token %}
+            {% for form_field in filter_form %}
+                <div class="form__field">
+                    {{ form_field.errors }}
+                    {{ form_field.label_tag }} {{ form_field }}
+                </div>
+            {% endfor %}
+
+            <input type="submit" name="" value="Фільтрація">
+        </form>
+    </div>
+
+    <div class="search__list">
+        <h2 class="list__title">
+            Результат пошуку
+        </h2>
+        <div class="list__items">
+            {% for client in clients %}
+                <div class="items__item"><a href={% url 'client' client.id %}>{{ client }}</a></div>
+            {% endfor %}
+        </div>
+    </div>
+
+{% endblock main %}

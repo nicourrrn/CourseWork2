@@ -1,0 +1,19 @@
+{% extends 'index.html' %}
+
+{% block main %}
+
+    <div class="main__table table__rows-8">
+        {% for log in logs %}
+            <div class="table__cell">Предмет</div>
+            <div class="table__cell"><a href={% url 'item' log.0 %}>{{ log.0 }}</a></div>
+            <div class="table__cell">з вартісттю</div>
+            <div class="table__cell">{{ log.1 }}</div>
+            <div class="table__cell">переміщенно з</div>
+            <div class="table__cell"><a href={% url 'branch' log.2 %}>{{ log.2 }}</a></div>
+            <div class="table__cell">до</div>
+            <div class="table__cell"><a href={% url 'branch' log.3 %}>{{ log.3 }}</a></div>
+            {% empty %}
+            <div class="table__cell">Переміщень не було</div>
+        {% endfor %}
+    </div>
+{% endblock %}

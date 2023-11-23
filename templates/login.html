@@ -1,0 +1,23 @@
+{% extends "index.html" %}
+
+{% block main %}
+    <div class="main__central_form">
+        <form class="forms__form" method="post">
+            <h2 class="form__title">Вхід</h2>
+            {% csrf_token %}
+            {% for form_field in form %}
+                <div class="form__field">
+                    {{ form_field.errors }}
+                    {{ form_field.label_tag }} {{ form_field }}
+                </div>
+            {% endfor %}
+            <input type="submit" value="Увійти">
+        </form>
+        {% if login_type == 0 %}
+            <p><a href="{% url 'client_login' %}">Зайти як клієнт</a></p>
+        {% elif login_type == 1 %}
+            <p><a href="{% url 'worker_login' %}">Зайти як працівник</a></p>
+        {% endif %}
+    </div>
+
+{% endblock main %}

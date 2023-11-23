@@ -1,0 +1,21 @@
+{% extends 'index.html' %}
+
+{% block main %}
+
+    <div class="main__table table__rows-3">
+        <div class="table__cell">Назва</div>
+        <div class="table__cell">Продажа</div>
+        <div class="table__cell">Купівля</div>
+        {% for material in materials %}
+            <div class="table__cell"><a
+                    href="{% url 'material_edit' material.id %}">{{ material.material_name }}</a></div>
+            <div class="table__cell">{{ material.selling_price }}</div>
+            <div class="table__cell">{{ material.purchase_price }}</div>
+        {% endfor %}
+        <div class="table__cell"><a href={% url 'material_add' %}>Додати</a></div>
+        <div class="table__cell"></div>
+        <div class="table__cell"></div>
+    </div>
+
+
+{% endblock %}

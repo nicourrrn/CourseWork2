@@ -1,0 +1,50 @@
+{% extends 'index.html' %}
+
+{% block main %}
+    <aside class="main__doings">
+        <div class="doings__block">
+            {% if user.get_class == "Worker" %}
+                <h3 class="block__title">Дії над предметом: </h3>
+                <ul class="block__points">
+                    <li class="points__point"><a href={% url 'item_remove' item.id %}>Повернути/продати предмет</a></li>
+                    <li class="points__point"><a href={% url 'item_edit' item.id %}>Редагувати інформацію</a></li>
+                    {% if item.contract %}
+                        <li class="points__point">
+                            <a href={% url 'contract' item.contract.id %}>Надрукувути звіт</a>
+                        </li>
+                    {% endif %}
+                </ul>
+            {% endif %}
+        </div>
+    </aside>
+
+    <div class="main__content">
+        <div class="content__info">
+            <p class="content__info_field">Номер предмету: {{ item.id }}</p>
+            <p class="content__info_field">Назва предмету: {{ item.item_name }}</p>
+            <p class="content__info_field">Вартість предмету: {{ item.cost }}</p>
+            <p class="content__info_field">Вага предмету: {{ item.weight }}</p>
+            <p class="content__info_field">Об'єм предмету: {{ item.volume }}</p>
+            <p class="content__info_field">Місцеположення предмету: <a
+                    href="{% url 'branch' item.branch.id %}">{{ item.branch }}</a></p>
+            <p class="content__info_field">Матеріали: {% for material in item.materials.all %}
+            {{ material }}
+            {% endfor %}
+            </p>
+            <p class="content__info_field">Категорія: {% for type in item.types.all %}
+            {{ type }}
+            {% endfor %}
+            </p>
+
+            {% if item.contract %}
+                <p class="content__info_field">Контракт діє з {{ item.contract.from_date }} до {{ item.contract.to_date }}</p>
+                <p class="content__info_field">Клієнт, з яким уладена угода: <a
+                        href="{% url 'client' item.contract.client.id %}"> {{ item.contract.client }} </a></p>
+                <p class="content__info_field">Працівний, який уклав угоду: <a
+                        href="{% url 'worker' item.contract.worker.id %}">{{ item.contract.worker }}</a></p>
+            {% endif %}
+
+        </div>
+
+    </div>
+{% endblock %}

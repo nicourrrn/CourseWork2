@@ -1,0 +1,232 @@
+@import "normalize.scss"
+@import "reset.css"
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@600&display=swap')
+
+*
+  font-family: Comfortaa, sans-serif
+
+
+.page
+  padding: 10px
+  font-size: 20px
+
+//         Index path
+
+.header
+  position: sticky
+  top: 20px
+  background-color: aliceblue
+  display: flex
+  padding: 10px
+  margin: 10px 40px
+
+  border: 1px black solid
+  border-radius: 10px
+  justify-content: space-between
+
+.header__points > ul
+  display: flex
+  gap: 20px
+
+@media print
+  .header
+    display: none
+
+.main__doings
+  border: 3px black solid
+  border-radius: 5px
+
+  padding: 10px
+  margin: 20px
+
+  display: flex
+  flex-direction: column
+
+  gap: 20px
+
+
+.doings__block
+  border-top: 2px black ridge
+
+.block__title
+  margin: 10px
+  font-weight: 600
+  font-size: 24px
+
+.block__points
+  border-left: 2px black solid
+  padding-left: 5px
+  display: flex
+  flex-direction: column
+  gap: 10px
+
+.points__point
+  transition-property: font-size
+  transition-duration: 1s
+  &:hover
+    font-size: 22px
+asmr
+
+
+
+
+.main__content
+  padding: 10px
+  display: flex
+  flex-direction: column
+  gap: 10px
+
+.content__info
+  display: flex
+  flex-direction: column
+  gap: 5px
+
+.content__list
+  display: flex
+  flex-direction: column
+  gap: 10px
+
+.list__title
+  font-size: 22px
+  font-weight: 600
+
+.list__items
+  display: flex
+  flex-wrap: wrap
+  justify-content: center
+
+
+.items__item
+  border: 1px black solid
+  border-radius: 5px
+  padding: 10px
+  margin: 5px
+
+  transition-duration: 0.25s
+  transition-property: font-size
+  &:hover
+    font-size: 21px
+
+
+
+
+//      Search
+
+.search__forms
+  display: flex
+  flex-direction: column
+  gap: 30px
+  padding: 5px
+  border: 3px black solid
+  border-radius: 10px
+
+.forms__form
+  padding: 10px
+  display: flex
+  flex-direction: column
+  gap: 10px
+
+  & > input[type="submit"]
+    border: 1px black solid
+    border-radius: 5px
+    padding: 3px
+    background-color: aliceblue
+    transition-duration: 0.2s
+    transition-property: background-color
+    &:hover
+      background-color: blanchedalmond
+
+.form__title
+  font-weight: 600
+  border-bottom: 1px black solid
+
+.form__field
+  transition-property: border-bottom
+  display: flex
+  flex-direction: column
+  gap: 5px
+  &:hover
+    border-bottom: 3px black solid
+    padding-bottom: 5px
+
+  & > input[type=text], input[type=number], select,
+  input[type="button"], input[type="email"], input[type="password"],
+  textarea
+    border: 1px black solid
+    border-radius: 5px
+    padding: 3px
+    background-color: aliceblue
+
+
+
+
+
+.search__list
+  @extend .content__list
+
+.main__search
+  display: flex
+  flex-direction: column
+  gap: 20px
+
+// Login
+
+.main__central_form
+  display: flex
+  flex-direction: column
+  justify-content: center
+  align-content: start
+  margin: 0 auto
+
+
+  //& > form
+  //  display: flex
+  //  flex-direction: column
+  //  justify-content: center
+  //  align-content: start
+
+
+.main__table
+  margin: 0 auto
+  display: inline-grid
+  border: 2px black solid
+  border-radius: 5px
+  height: 100%
+
+@for $i from 2 through 30
+  .table__rows-#{$i}
+    grid-template-columns: repeat($i, 1fr)
+
+.table__cell
+  display: flex
+  flex-direction: column
+  justify-content: center
+  text-align: center
+  padding: 10px
+  border: 1px black solid
+
+.table__header
+  @extend .table__cell
+  font-weight: 700
+  max-height: 50px
+
+
+
+
+.table__query
+  width: 100%
+
+
+.form__query
+  font-family: "JetBrains Mono", serif
+  font-weight: 600
+
+
+//           Worker path
+//Worker home
+
+.main
+  display: flex
+  margin: 0 5px
+  gap: 50px

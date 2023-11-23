@@ -1,0 +1,39 @@
+{% extends 'index.html' %}
+
+{% block main %}
+    <main class="main">
+        <aside class="main__doings">
+            <div class="doings__block">
+                <h3 class="block__title">Дії над клієнтом:</h3>
+                <ul class="block__points">
+                    <li class="points__point"><a href={% url 'client_edit' client.id %}>Редагувати інформацію про клієнта</a></li>
+                    <li class="points__point"><a href={% url 'client_remove' client.id %}>Видалити</a></li>
+                </ul>
+            </div>
+        </aside>
+        <div class="main__content">
+            <div class="content__info">
+                <p class="content__info__field">Надано документ: {{ client.document_type }}</p>
+                <p class="content__info__field">Номер вашого документа: {{ client.document_num }}</p>
+                <p class="content__info__field">Ваш ідентифікаційний код: {{ client.identification_code }}</p>
+                <p class="content__info__field"> Ваш телефон: +{{ client.phone }}</p>
+                <p class="content__info__field">
+                    ПІБ: {{ client.first_name }} {{ client.last_name }} {{ client.by_father_name }}</p>
+                <p class="content__info__field"> Дата народження: {{ client.birthday }}</p>
+                <p class="content__info__field"> Пошта: {{ client.email }}</p>
+            </div>
+            <div class="content__list">
+                <h2 class="list__title">Здані предмети</h2>
+                <div class="list__items">
+                    {% for contract in client.contract_set.all %}
+                    {% for item in contract.item_set.all %}
+                        <div class="items__item"><a href={% url 'item' item.id %}>{{ item }}</a></div>
+                    {% endfor %}
+
+                    {% endfor %}
+
+                </div>
+            </div>
+        </div>
+    </main>
+{% endblock %}

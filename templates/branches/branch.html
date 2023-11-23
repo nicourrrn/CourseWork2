@@ -1,0 +1,31 @@
+{% extends 'index.html' %}
+
+{% block main %}
+        <aside class="main__doings">
+            <div class="doings__block">
+                <h3 class="block__title">Можливі дії</h3>
+                <ul class="block__points">
+                    <li class="points__point"><a href={% url 'edit_branch' branch.id %}>Редагувати інформацію</a></li>
+                    <li class="points__point"><a href={% url 'remove_branch' branch.id %}>Видалити</a></li>
+                    <li class="points__point"><a href={% url 'branch_info' branch.id %}>Звіт про гілку</a></li>
+                </ul>
+            </div>
+        </aside>
+
+        <div class="main__content">
+            <div class="content__info">
+                <p class="content__info_field">Номер філії: {{ branch.id }}</p>
+                <p class="content__info_field">Адреса філії: {{ branch.branch_address }}</p>
+                <p class="content__info_field">Філія працює з {{ branch.open_time }} до {{ branch.close_time }}</p>
+            </div>
+            <div class="content__list">
+                <h2 class="list__title">Предмети, що зберіраються в філії</h2>
+                <div class="list__items">
+                    {% for item in branch.item_set.all %}
+                        <div class="items__item"><a href="{% url 'item' item_id=item.id %}">{{ item }}</a></div>
+                    {% endfor %}
+                </div>
+            </div>
+
+        </div>
+{% endblock %}

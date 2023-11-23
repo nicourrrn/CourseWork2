@@ -1,0 +1,42 @@
+{% extends "index.html" %}
+
+{% block main %}
+    <main class="main">
+        <aside class="main__doings">
+            <div class="doings__block">
+                <h3 class="block__title">
+                    Керування працівниками
+                </h3>
+                <ul class="block__points">
+                    <li class="points__point"><a href={% url 'worker_edit' worker.id %}>Редагувати інформацію</a></li>
+                    <li class="points__point"><a href={% url 'worker_remove' worker.id %}>Звільнити працівника</a></li>
+                    <li class="points__point"></li>
+                </ul>
+            </div>
+        </aside>
+        <div class="main__content">
+            <div class="content__info">
+                <p class="content__info__field">Номер паспорта: {{ worker.passport_num }}</p>
+                <p class="content__info__field">Ідентифікаційний код: {{ worker.identification_code }}</p>
+                <p class="content__info__field"> Телефон: +{{ worker.phone }}</p>
+                <p class="content__info__field">
+                    ПІБ: {{ worker.first_name }} {{ worker.last_name }} {{ worker.by_father_name }}</p>
+                <p class="content__info__field"> Дата народження: {{ worker.birthday }}</p>
+                <p class="content__info__field"> Пошта: {{ worker.email }}</p>
+                <p class="content__info__field"> Адресса проживання: {{ worker.worker_address }}</p>
+                <p class="content__info__field"> Початор роботи у компанії: {{ worker.start_work_at }}</p>
+                <p class="content__info__field">
+                    Адреса гілки працівника:
+                    <a href="{% url 'branch' branch_id=worker.branch.id %}"
+                       class="content__info__branch"> {{ worker.branch }} </a>
+                </p>
+                <p class="content__info__field">
+                    Посада:
+                    <a href="{% url 'position' position_id=worker.position.id %}"
+                       class="content__info__position"> {{ worker.position }} </a>
+                </p>
+            </div>
+        </div>
+    </main>
+
+{% endblock %}

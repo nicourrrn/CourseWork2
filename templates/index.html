@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <title>Головна сторінка</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% load static %}
+    <link rel="stylesheet" href={% static 'main.css' %}>
+</head>
+<body>
+<div class="page">
+    <header class="header">
+        <div class="header__points">
+            <ul>
+                <li><a href="{% url 'index' %}">Головна</a></li>
+                {% if user.get_class == "Worker" %}
+                    <li><a href={% url 'query' %}>Запит</a></li>
+                {% endif %}
+            </ul>
+        </div>
+        <div class="header__points">
+            <ul>
+                {% if user %}
+                    <li>
+                        <a href={% url 'home' %} class="header__home_btn"> Ваша сторінка, {{ user }}</a>
+                    </li>
+                    <li><a href="{% url 'logout' %}">Вийти</a></li>
+                {% else %}
+                    <li><a href={% url 'client_login' %} class="header__login_btn">Зайти</a></li>
+                {% endif %}
+            </ul>
+        </div>
+
+    </header>
+
+    <main class="main">
+        {% block main %}
+            <aside class="main__doings">
+                <div class="doings__block">
+                    <h3 class="block__title">
+                        Пошук
+                    </h3>
+                    <ul class="block__points">
+                        {% if user.get_class == "Worker" %}
+                            <li class="points__point"><a href={% url 'search_clients' %}>Пошук клієнтів</a></li>
+                            <li class="points__point"><a href={% url 'search_workers' %}>Пошук працівниців</a></li>
+                        {% endif %}
+                        <li class="points__point"><a href={% url 'search_items' %}>Пошук предметів</a></li>
+                        <li class="points__point"><a href={% url 'search_materials' %}>Перегляд матеріалів</a></li>
+                        <li class="points__point"><a href={% url 'search_branches' %}>Пошук філій</a></li>
+                    </ul>
+                </div>
+                <div class="doings__block">
+                    <h3 class="block__title">Додаткова інформація</h3>
+                    <ul class="block__points">
+                        {% if user.get_class == "Worker" %}
+                            <li class="points__point"><a href={% url 'rebalance_log' %}>Подивитися дані переміщення
+                                предметів</a></li>
+                        {% endif %}
+                    </ul>
+                </div>
+            </aside>
+        {% endblock %}
+    </main>
+</div>
+
+</body>
+</html>

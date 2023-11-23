@@ -1,0 +1,55 @@
+{% extends 'index.html' %}
+{% block main %}
+    <aside class="main__doings">
+        <div class="doings__block">
+            <h3 class="block__title">
+                Можливі дії
+            </h3>
+            <ul class="block__points">
+                <li class="points__point"><a href={% url 'client_add' %}>Додати клієнта</a></li>
+                <li class="points__point"><a href={% url 'item_add' %}>Додати предмет</a></li>
+                <li class="points__point"><a href={% url 'contract_add' %}>Укласти контракт</a></li>
+                <li class="points__point"><a href={% url 'material_add' %}>Додати матеріал</a></li>
+            </ul>
+        </div>
+        <div class="doings__block">
+            <h3 class="block__title">Керування гілкою</h3>
+            <ul class="block__points">
+                <li class="points__point"><a href={% url 'branch' user.branch.id %}>Перейти на сторінку філії</a></li>
+                <li class="points__point"><a href={% url 'branch_add' %}>Зареєструвати філію</a></li>
+
+            </ul>
+        </div>
+        <div class="doings__block">
+            <h3 class="block__title">
+                Керування працівниками
+            </h3>
+            <ul class="block__points">
+                <li class="points__point"><a href={% url 'worker_add' %}>Додати працівника</a></li>
+            </ul>
+        </div>
+    </aside>
+
+    <div class="main__content">
+        <div class="content__info">
+            <p class="info__field">Номер вашого паспорта: {{ user.passport_num }}</p>
+            <p class="info__field">Ваш ідентифікаційний код: {{ user.identification_code }}</p>
+            <p class="info__field"> Ваш телефон: +{{ user.phone }}</p>
+            <p class="info__field"> ПІБ: {{ user.first_name }} {{ user.last_name }} {{ user.by_father_name }}</p>
+            <p class="info__field"> Дата народження: {{ user.birthday }}</p>
+            <p class="info__field"> Пошта: {{ user.email }}</p>
+            <p class="info__field"> Адресса проживання: {{ user.worker_address }}</p>
+            <p class="info__field"> Початор роботи у компанії: {{ user.start_work_at }}</p>
+
+            <p class="info__field">
+                Адреса вашої гілки:
+                <a href="{% url 'branch' branch_id=user.branch.id %}" class="info__branch"> {{ user.branch }} </a>
+            </p>
+            <p class="info__field">
+                Ваша посада:
+                <a href="{% url 'position' position_id=user.position.id %}"
+                   class="info__position"> {{ user.position }} </a>
+            </p>
+        </div>
+    </div>
+{% endblock %}
